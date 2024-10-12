@@ -1,0 +1,5 @@
+﻿  Triangle.cpp
+C:\Users\oktay\OneDrive\Masaüstü\c++\Triangle\Triangle\classConcept.h(93,35): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('Triangle.cpp' kaynak dosyası derleniyor)
+  
+  Triangle.vcxproj -> C:\Users\oktay\OneDrive\Masaüstü\c++\Triangle\x64\Debug\Triangle.exe
